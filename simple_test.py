@@ -17,3 +17,5 @@ if feel == goed:
     print("Dat is fijn om te horen")
 else:
     print("Dat is dan mooi kut voor je, maar niet echt mijn probleem, vind je wel " + naam + "?")
+time.sleep(0.3)
+print("Ga maar gewoon lekker wat leuks doen joh, is voor iedereen fijn.")
