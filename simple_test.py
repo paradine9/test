@@ -20,3 +20,5 @@ else:
 time.sleep(0.3)
 print("Ga maar gewoon lekker wat leuks doen joh, is voor iedereen fijn.")
 # nu nog even een git add testen
+time.sleep(0.5)
+print("Je zit nu op een aftakking. Takkie takkie, je weet toch!?")
